@@ -11,6 +11,9 @@
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+
+
 ## DB
 <img width="800" alt="GRC_DB" src="https://user-images.githubusercontent.com/114010695/218326361-05f6371f-483b-4d79-af69-06f341f495e1.png">
 
